@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/.idea
+/ProjectGit5.iml
+
+#we don’t commit unnecessary files to the github repository?
